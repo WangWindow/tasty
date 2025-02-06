@@ -1,0 +1,6 @@
+[alias]
+abuild = "tauri android build --target aarch64"
+adev = "tauri android dev"
+ainit = "tauri android init"
+dbuild = "tauri build"
+ddev = "tauri dev"
