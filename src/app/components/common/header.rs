@@ -1,7 +1,5 @@
-use leptos::task::spawn_local;
-use leptos::{ev::SubmitEvent, prelude::*};
-use serde::{Deserialize, Serialize};
-use wasm_bindgen::prelude::*;
+use leptos::prelude::*;
+
 #[component]
 pub fn header() -> impl IntoView {
     view! {
