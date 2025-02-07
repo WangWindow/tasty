@@ -6,9 +6,9 @@
 //     example::Example()
 // }
 
-pub mod components;
-
-use components::layout;
+pub mod common;
+pub mod layout;
+pub mod pages;
 use leptos::prelude::*;
 
 #[component]
