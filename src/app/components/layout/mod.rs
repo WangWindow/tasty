@@ -1,4 +1,4 @@
-use super::pages::{home_page, settings_page};
+use super::pages::home_page;
 use leptos::prelude::*;
 
 #[component]

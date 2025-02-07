@@ -5,10 +5,10 @@ pub fn sider() -> impl IntoView {
     view! {
         <div class="sider-container h-full flex flex-col">
             <div class="flex-grow overflow-y-auto">
-                <history/>
+                <History />
             </div>
             <div class="flex-shrink-0">
-                <settings/>
+                <Settings />
             </div>
         </div>
     }
