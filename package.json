@@ -1,0 +1,25 @@
+{
+  "name": "tasty",
+  "version": "1.0.0",
+  "description": "A Tauri app with Leptos.",
+  "main": "index.js",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.4",
+    "tailwindcss": "^4.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangWindow/tasty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WangWindow/tasty/issues"
+  },
+  "homepage": "https://github.com/WangWindow/tasty#readme"
+}
