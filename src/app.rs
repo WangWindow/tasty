@@ -14,6 +14,6 @@ use leptos::prelude::*;
 #[component]
 pub fn App() -> impl IntoView {
     view! {
-        <layout::Layout />
+        <pages::HomePage />
     }
 }
