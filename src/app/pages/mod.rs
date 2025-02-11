@@ -1,5 +1,5 @@
-pub mod home_page;
-pub mod settings_page;
+pub mod home;
+pub mod settings;
 
-pub use home_page::HomePage;
-pub use settings_page::SettingsPage;
+pub use home::HomePage;
+pub use settings::SettingsPage;

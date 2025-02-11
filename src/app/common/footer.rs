@@ -3,7 +3,6 @@ use leptos::prelude::*;
 #[component]
 pub fn footer() -> impl IntoView {
     view! {
-        // <!-- 底部输入栏 -->
         <footer class="p-4 border-t border-gray-200 dark:border-gray-700">
             <input
                 type="text"
